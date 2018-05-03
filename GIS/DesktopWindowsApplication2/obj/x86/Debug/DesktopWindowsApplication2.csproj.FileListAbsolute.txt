@@ -1,0 +1,8 @@
+F:\GIS PROJECT\GIS PROJECT\Last M Stone\DesktopWindowsApplication2\obj\x86\Debug\DesktopWindowsApplication2.exe
+F:\GIS PROJECT\GIS PROJECT\Last M Stone\DesktopWindowsApplication2\obj\x86\Debug\DesktopWindowsApplication2.pdb
+F:\GIS PROJECT\GIS PROJECT\Last M Stone\DesktopWindowsApplication2\bin\Debug\DesktopWindowsApplication2.exe
+F:\GIS PROJECT\GIS PROJECT\Last M Stone\DesktopWindowsApplication2\bin\Debug\DesktopWindowsApplication2.pdb
+F:\GIS PROJECT\GIS PROJECT\Last M Stone\DesktopWindowsApplication2\obj\x86\Debug\DesktopWindowsApplication2.csprojResolveAssemblyReference.cache
+F:\GIS PROJECT\GIS PROJECT\Last M Stone\DesktopWindowsApplication2\obj\x86\Debug\DesktopWindowsApplication2.Form1.resources
+F:\GIS PROJECT\GIS PROJECT\Last M Stone\DesktopWindowsApplication2\obj\x86\Debug\DesktopWindowsApplication2.Properties.Resources.resources
+F:\GIS PROJECT\GIS PROJECT\Last M Stone\DesktopWindowsApplication2\obj\x86\Debug\DesktopWindowsApplication2.csproj.GenerateResource.Cache
